@@ -31,7 +31,7 @@
 | Project Name | Deploy Link |
 |--------------|-------------|
 | Videogames store    | [Videogames](https://cybervaultt.netlify.app/main) |
-| Mirada store   | [Mirada](mirada.by) |
+| Mirada store   | [Mirada](https://mirada.by) |
 | Nonogramas Game    | [Nonogramas](https://maruyyak.github.io/nonograms/nonograms/index.html) |
 | English Puzzle    | [Puzzle](https://rolling-scopes-school.github.io/maruyyak-JSFE2023Q4/rss-puzzle/dist/index.html) |
 | Hangman Game    | [Hangman](https://maruyyak.github.io/hangman/hangman/index.html) |
