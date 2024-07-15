@@ -1,12 +1,11 @@
 # 👩‍💻 Maryana - Front-End Developer
 
-I manage projects from initial requirement gathering through to the full deployment of websites for small and medium-sized businesses.
-
-With a passion for thoughtful UI design, collaboration, and continuous learning.
-
 ## 🚀 About Me
 
-With a background in Business Analysis, I excel at identifying and solving complex problems. I thrive on challenging projects and am adept at quickly understanding and breaking down intricate business requirements for industry-specific systems. This experience enhances my development work, allowing me to create solutions that are not only technically sound but also aligned with business goals and user needs.
+- Front-End Developer with a strong foundation in HTML5, CSS/SASS/SCSS, JavaScript, and Angular.
+- Experienced Business Analyst, adept at breaking down complex business requirements and solving intricate problems.
+- Skilled in Managing Projects from initial requirement gathering to full deployment, ensuring both technical and alignment with business goals.
+- Passionate about UI/UX Design, continuously learning and collaborating to create user-friendly and technically sound solutions.
 
 ## 🌐 Connect with Me
 
