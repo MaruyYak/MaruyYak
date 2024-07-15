@@ -31,7 +31,9 @@ With a background in Business Analysis, I excel at identifying and solving compl
 
 | Project Name | Deploy Link |
 |--------------|-------------|
-| Project 1    | [Link to Project 1](https://example.com) |
-| Project 2    | [Link to Project 2](https://example.com) |
-| Project 3    | [Link to Project 3](https://example.com) |
+| Videogames store    | [Videogames](https://cybervaultt.netlify.app/main) |
+| Mirada store   | [Mirada](mirada.by) |
+| Nonogramas Game    | [Nonogramas](https://maruyyak.github.io/nonograms/nonograms/index.html) |
+| English Puzzle    | [Puzzle](https://rolling-scopes-school.github.io/maruyyak-JSFE2023Q4/rss-puzzle/dist/index.html) |
+| Hangman Game    | [Hangman](https://maruyyak.github.io/hangman/hangman/index.html) |
 
