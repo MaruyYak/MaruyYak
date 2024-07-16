@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-- Front-End Developer with a strong foundation in HTML5, CSS/SASS/SCSS, JavaScript, and Angular.
+- Front-End Developer with a strong foundation in HTML5, CSS/SASS/SCSS, JavaScript.
 - Experienced Business Analyst, adept at breaking down complex business requirements and solving intricate problems.
 - Skilled in Managing Projects from initial requirement gathering to full deployment, ensuring both technical and alignment with business goals.
 - Passionate about UI/UX Design, continuously learning and collaborating to create user-friendly and technically sound solutions.
