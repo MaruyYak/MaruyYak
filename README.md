@@ -33,6 +33,6 @@
 | Videogames store    | [Videogames](https://cybervaultt.netlify.app/main) | Front: Angular (Routing, NGrx, Components), Typescrypt, HTML, SCSS; Back: CommerceTools |
 | Mirada store   | [Mirada](https://mirada.by) | JavaScipt, HTML, CSS, PHP (mail service) | 
 | English Puzzle    | [Puzzle](https://rolling-scopes-school.github.io/maruyyak-JSFE2023Q4/rss-puzzle/dist/index.html) | Typescrypt, HTML, CSS, Webpack builder |
-| Nonogramas Game    | [Nonogramas](https://maruyyak.github.io/nonograms/nonograms/index.html) | JavaScipt, HTML, CSS |
+| Nonograms Game    | [Nonograms](https://maruyyak.github.io/nonograms/nonograms/index.html) | JavaScipt, HTML, CSS |
 | Hangman Game    | [Hangman](https://maruyyak.github.io/hangman/hangman/index.html) | JavaScipt, HTML, CSS |
 
