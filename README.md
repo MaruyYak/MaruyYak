@@ -35,4 +35,5 @@
 | English Puzzle    | [Puzzle](https://rolling-scopes-school.github.io/maruyyak-JSFE2023Q4/rss-puzzle/dist/index.html) | Typescrypt, HTML, CSS, Webpack builder |
 | Nonograms Game    | [Nonograms](https://maruyyak.github.io/nonograms/nonograms/index.html) | JavaScipt, HTML, CSS |
 | Hangman Game    | [Hangman](https://maruyyak.github.io/hangman/hangman/index.html) | JavaScipt, HTML, CSS |
+| Coffee-house    | [Coffee-house](https://maruyyak.github.io/hangman/hangman/index.html) | JavaScipt, HTML, CSS |
 
