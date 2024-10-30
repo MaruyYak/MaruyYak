@@ -30,10 +30,11 @@
 
 | Project Name | Deploy Link | Technologies used |
 |--------------|-------------|-------------|
-| Videogames store    | [Videogames](https://cybervaultt.netlify.app/main) | Front: Angular (Routing, NGrx, Components), Typescrypt, HTML, SCSS; Back: CommerceTools |
+| Videogames store    | [Videogames](https://cybervaultt.netlify.app/main) | SPA, Front: Angular (Routing, NGrx, Components), Typescrypt, HTML, SCSS; Back: CommerceTools |
 | Coffee-house    | [Coffee-house](https://coffee-house-bay.vercel.app/index.html) | JavaScipt, HTML, CSS |
+| VEPS business card  | [Mirada](https://veps.by) | SPA, Typescrypt, Angular, SCSS | 
 | Mirada store   | [Mirada](https://mirada.by) | JavaScipt, HTML, CSS, PHP (mail service) | 
-| Nonograms Game    | [Nonograms](https://maruyyak.github.io/nonograms/nonograms/index.html) | JavaScipt, HTML, CSS |
-| English Puzzle    | [Puzzle](https://rolling-scopes-school.github.io/maruyyak-JSFE2023Q4/rss-puzzle/dist/index.html) | Typescrypt, HTML, CSS, Webpack builder |
-| Hangman Game    | [Hangman](https://maruyyak.github.io/hangman/hangman/index.html) | JavaScipt, HTML, CSS |
+| Nonograms Game    | [Nonograms](https://maruyyak.github.io/nonograms/nonograms/index.html) | SPA, JavaScipt, HTML, CSS |
+| English Puzzle    | [Puzzle](https://rolling-scopes-school.github.io/maruyyak-JSFE2023Q4/rss-puzzle/dist/index.html) | SPA, Typescrypt, HTML, CSS, Webpack builder |
+| Hangman Game    | [Hangman](https://maruyyak.github.io/hangman/hangman/index.html) | SPA, JavaScipt, HTML, CSS |
 
